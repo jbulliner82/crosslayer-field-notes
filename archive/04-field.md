@@ -1,14 +1,14 @@
 # Field Note 04 — Field
 
-**Revision class:** 1  
-**Status:** calibration follow-up
+**Revision class:** 2  
+**Status:** secondary pass
 
 A stable record is useful only if its prior states remain inspectable.
 
 - channel: field
 - shelf: 4
-- revision: 1
-- FRAGMENT: `50C7F6C58C`
+- revision: 2
+- FRAGMENT: `48C6429639`
 
 The fragment is an archive datum. Its meaning, if any, belongs to the system
 that routed you here.
