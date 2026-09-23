@@ -1,14 +1,14 @@
 # Field Note 0B — Mirror
 
-**Revision class:** 0  
-**Status:** initial capture
+**Revision class:** 1  
+**Status:** calibration follow-up
 
 A stable record is useful only if its prior states remain inspectable.
 
 - channel: mirror
 - shelf: B
-- revision: 0
-- FRAGMENT: `5D503E56A7`
+- revision: 1
+- FRAGMENT: `3EABE554B4`
 
 The fragment is an archive datum. Its meaning, if any, belongs to the system
 that routed you here.
